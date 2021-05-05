@@ -4,10 +4,10 @@
 
 1. Download and install python version >3.5 --> https://www.python.org/ftp/python/3.9.5/python-3.9.5-amd64.exe
 2. Make sure you install the following modules:
-   2.1 pip install requests
-   2.2 pip install json
-   2.3 pip install pandas
-   2.4 pip install datetime
+   * pip install requests
+   * pip install json
+   * pip install pandas
+   * pip install datetime
 
 ---
 
